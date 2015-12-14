@@ -1,0 +1,87 @@
+Tue Nov 18 12:11:22 2014
+	Score: 1	Moves: 8
+
+Tue Nov 18 12:12:55 2014
+	Score: 6	Moves: 51
+
+Tue Nov 18 12:13:39 2014
+	Score: 1	Moves: 14
+
+Tue Nov 18 12:14:45 2014
+	Score: 20	Moves: 136
+
+Tue Nov 18 12:17:10 2014
+	Score: 12	Moves: 61
+
+Wed Nov 19 11:36:26 2014
+	Score: 21	Moves: 115
+
+Wed Nov 19 11:38:10 2014
+	Score: 10	Moves: 69
+
+Wed Nov 19 11:42:53 2014
+	Score: 77	Moves: 513
+
+Wed Nov 19 11:43:51 2014
+	Score: 0	Moves: 0
+
+Wed Nov 19 11:44:07 2014
+	Score: 0	Moves: 0
+
+Wed Nov 19 11:44:57 2014
+	Score: 0	Moves: 0
+
+Wed Nov 19 11:45:35 2014
+	Score: 0	Moves: 0
+
+Wed Nov 19 11:46:23 2014
+	Score: 0	Moves: 0
+
+Wed Nov 19 11:46:47 2014
+	Score: 0	Moves: 0
+
+Wed Nov 19 11:47:09 2014
+	Score: 1	Moves: 11
+
+Wed Nov 19 11:47:26 2014
+	Score: 0	Moves: 0
+
+Wed Nov 19 11:48:05 2014
+	Score: 0	Moves: 6
+
+Wed Nov 19 11:48:34 2014
+	Score: 2	Moves: 21
+
+Wed Nov 19 11:48:52 2014
+	Score: 0	Moves: 5
+
+Wed Nov 19 11:49:16 2014
+	Score: 0	Moves: 1
+
+Wed Nov 19 11:49:34 2014
+	Score: 0	Moves: 0
+
+Wed Nov 19 11:49:49 2014
+	Score: 0	Moves: 1
+
+Wed Nov 19 11:50:01 2014
+	Score: 0	Moves: 0
+
+Wed Nov 19 11:50:13 2014
+	Score: 0	Moves: 1
+
+Wed Nov 19 11:50:29 2014
+	Score: 0	Moves: 5
+
+Wed Nov 19 11:50:40 2014
+	Score: 0	Moves: 0
+
+Wed Nov 19 11:51:02 2014
+	Score: 4	Moves: 13
+
+Wed Nov 19 11:51:55 2014
+	Score: 17	Moves: 103
+
+Fri Nov 21 11:40:54 2014
+	Score: 40	Moves: 268
+

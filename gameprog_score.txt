@@ -1,0 +1,24 @@
+Thu Nov 13 12:13:31 2014
+	Score: 81	Moves: 423
+
+Thu Nov 13 12:18:55 2014
+	Score: 72	Moves: 373
+
+Fri Nov 14 11:39:05 2014
+	Score: 132	Moves: 696
+
+Fri Nov 14 12:09:11 2014
+	Score: 88	Moves: 557
+
+Mon Nov 17 11:37:26 2014
+	Score: 24	Moves: 110
+
+Fri Nov 21 11:43:20 2014
+	Score: 10	Moves: 74
+
+Fri Nov 21 12:16:13 2014
+	Score: 100	Moves: 586
+
+Tue Dec 16 12:01:27 2014
+	Score: 0	Moves: 0
+

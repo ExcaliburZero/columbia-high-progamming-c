@@ -1,0 +1,33 @@
+body{
+	width: 80%;
+	margin: auto;
+}
+
+#title{
+	width: 100%;
+	font-size: 54px;
+	margin: auto;
+	text-align: center;
+	padding-top: 5px;
+}
+
+#sub-title{
+	width: 100%;
+	font-size: 20px;
+	margin: auto;
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+#content{
+	width: 100%;
+	font-size: 14px;
+	margin: auto;
+	text-align: justify;
+}
+
+#footer{
+	width: 100%;
+	padding-top: 10px;
+	text-align: center;
+}
